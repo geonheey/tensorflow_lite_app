@@ -14,7 +14,6 @@ migrate_working_dir/
 windows/
 linux/
 web/
-android/app/src/main/cpp/
 
 # IntelliJ related
 *.iml
